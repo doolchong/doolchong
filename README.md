@@ -7,7 +7,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&customColorList=26&text=Welcome%20to%20Gun's%20Git-Hub&fontAlign=50&animation=fadeIn&textBg=false&fontSize=60"/>
 
 ![Gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=doolchong&include_all_commits=true&show_icons=true&theme=cobalt&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doolchong&layout=compact&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong)
 
 # Skills 👍
