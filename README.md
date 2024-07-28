@@ -10,8 +10,8 @@
     srcset="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img style="width=400px; height=250px;" src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true" />
+  <img style="width=400px; height=250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </picture>
 
 # 💪Skills
