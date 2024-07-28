@@ -1,8 +1,8 @@
 # DoolChong 🤗 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoolchong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # Contacts 📧
 [![Tech Blog Badge](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&)](https://velog.io/@doolchong/posts)
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doolchong@gmail.com)
-![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:fatalerror97@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doolchong@gmail.com)](doolchong@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:fatalerror97@naver.com)](mailto:fatalerror97@naver.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&customColorList=26&text=Welcome%20to%20Gun's%20Git-Hub&fontAlign=50&animation=fadeIn&textBg=false&fontSize=60"/>
 
