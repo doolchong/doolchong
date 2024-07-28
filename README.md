@@ -1,6 +1,6 @@
 # DoolChong
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoolchong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+#[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoolchong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true&theme=dark"
@@ -11,7 +11,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img style="width=400px; height=250px;" src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true" />
-  <img style="width=400px; height=250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img style="width=400px; height=250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doolchong&layout=compact" />
 </picture>
 
 # 💪Skills
