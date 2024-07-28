@@ -1,10 +1,6 @@
 ## Hi there 👋
-<div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong/)
-</div>
-<div align="center"> 
-  <img src="https://solved.ac/doolchong/"/></a>
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoolchong%2Fhit-counter&count_bg=%2379C83D&title_bg=%235C5E5C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true&theme=cobalt"/></a>
 </div>
