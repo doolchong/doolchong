@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,30)&text=Hello%20I'm%20DoolChong
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,2,5,30)&text=Hello%20I'm%20DoolChong" />
 
 #[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoolchong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <picture>
@@ -10,8 +10,8 @@ https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&cust
     srcset="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img style="width=400px; height=250px;" src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true" />
-  <img style="width=400px; height=250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doolchong&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doolchong&layout=compact" />
 </picture>
 
 # 💪Skills
