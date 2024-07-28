@@ -1,14 +1,12 @@
 ## Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong/)
+
 <div align="center"> 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong/)
   <img src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true&theme=cobalt"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doolchong&layout=compact&theme=cobalt"/></a>
 </div>
 <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doolchong&layout=compact&theme=cobalt)
-</div>
-<div align="center"> 
-  
 </div>
 <!--
 **doolchong/doolchong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
