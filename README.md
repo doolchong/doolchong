@@ -3,7 +3,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong/)
 </div>
 <div align="center"> 
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong/)"/></a>
+  <img src="[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doolchong)](https://solved.ac/doolchong/)"/></a>
 </div>
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=doolchong&show_icons=true&theme=cobalt"/></a>
